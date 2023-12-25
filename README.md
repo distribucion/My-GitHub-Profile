@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hello! 👋 Welcome to My GitHub Profile
 
 ## About Me
@@ -11,18 +11,20 @@ Hello! I'm **Damián Rueda**, a passionate technology enthusiast characterized b
 - **Email:** damian.ruedacorella@hotmail.com 📧
 
 ## Languages and Skills
+  - **Technical Skills:**
+    - Python:🐍 ![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
+    - C#: ![C#](https://img.shields.io/badge/C%23-Intermediate-yellow?logo=c-sharp)
+    - Unity:🎮 ![Unity](https://img.shields.io/badge/Unity-Intermediate-yellow?logo=unity)
+    - Unreal Engine 4:🎮 ![Unreal Engine 4](https://img.shields.io/badge/Unreal%20Engine%204-Basic-orange?logo=unreal-engine)
+    - Chatgpt4 (prompts):🤖 ![Chatgpt4](https://img.shields.io/badge/Chatgpt4-Intermediate-yellow?logo=openai)
+    - IA para Vídeo/Imágenes/Audio:🎥📸🔊 ![IA](https://img.shields.io/badge/IA-Basic-green?logo=artificial-intelligence)
 
-- **Languages:**
-  - Spanish (Native)
-  - English (Level: A2)
-  - Français (Level: B2)
 
-- **Technical Skills:**
-  - Python-Automation 🐍
-  - C#, Unity, Unreal4 🎮
-  - Chatgpt4 (prompts) 🤖
-  - Use of AI tools for video/images/audio 🎥📸🔊
-   
+  - **Languages:**
+    - Español: ![Español](https://img.shields.io/badge/Level/Español-Nativo-blue)
+    - Inglés: ![Inglés](https://img.shields.io/badge/Level/Inglés-A2-green)
+    - Français: ![Inglés](https://img.shields.io/badge/Leve/Français-B2-yellow)
+    
 
 - **Personal Skills:**
   - Good communication 🗣️
