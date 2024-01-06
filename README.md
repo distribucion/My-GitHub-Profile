@@ -21,9 +21,9 @@ Hello! I'm **Damián Rueda**, a passionate technology enthusiast characterized b
 
 
   - **Languages:**
-    - Español: ![Español](https://img.shields.io/badge/Level/Español-Nativo-blue)
-    - Inglés: ![Inglés](https://img.shields.io/badge/Level/Inglés-A2-green)
-    - Français: ![Inglés](https://img.shields.io/badge/Leve/Français-B2-yellow)
+    - Spanish: ![Español](https://img.shields.io/badge/Level/Spanish-Native-blue)
+    - English: ![Inglés](https://img.shields.io/badge/Level/English-A2-green)
+    - French: ![Inglés](https://img.shields.io/badge/Leve/Frech-B2-yellow)
     
 
 - **Personal Skills:**
@@ -51,16 +51,6 @@ Hello! I'm **Damián Rueda**, a passionate technology enthusiast characterized b
   - Technical Service for electronic devices at Hospital del Celular (07/2023, Fribourg, Switzerland)
   - Cleaning at DOSIM SA (08/2021 - 03/2023, Geneva, Switzerland) 🧹
 
-## Inspirational Quote
-
-> "passionate technology enthusiast characterized by an incessant desire for learning and continuous improvement
-
-![Texto Alternativo](URL_de_la_imagen)
-
-<!--
-**distribucion/distribucion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
