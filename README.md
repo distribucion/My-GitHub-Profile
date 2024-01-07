@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm **Damián Rueda**, a passionate technology enthusiast characterized by an incessant desire for learning and continuous improvement. In an era where technology advances at a dizzying pace, I understand that the key to success lies in the ability to adapt and in the constant commitment to daily learning.
+I'm **Damián Rueda**, a passionate technology enthusiast characterized by an incessant desire for learning and continuous improvement. In an era where technology advances at a dizzying pace, I understand that the key to success lies in the ability to adapt and in the constant commitment to daily learning.
 
 ## Personal Information
 
